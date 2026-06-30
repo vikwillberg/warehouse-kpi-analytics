@@ -1,0 +1,13 @@
+# Core data stack used across the projects
+pandas
+numpy
+
+# Charting / reporting
+matplotlib
+plotly
+
+# Excel I/O
+openpyxl
+
+# Optional: ML forecasting in the sorting pipeline (degrades gracefully if absent)
+scikit-learn

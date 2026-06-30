@@ -1,0 +1,44 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Data & binary artifacts — NEVER commit operational data to this public repo.
+# This repo is code + documentation only. The patterns below are a safety net.
+# ─────────────────────────────────────────────────────────────────────────────
+*.csv
+*.xlsx
+*.xlsm
+*.xls
+*.pbix
+*.pbit
+*.pptx
+*.ppt
+*.docx
+*.html
+*.htm
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.zip
+*.eml
+
+# Allow project config that happens to be JSON-based (kept intentionally)
+!**/kpi_config.json
+
+# Allow curated, sanitized report screenshots (identifiers redacted)
+!**/screenshots/
+!**/screenshots/*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS / editor
+desktop.ini
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

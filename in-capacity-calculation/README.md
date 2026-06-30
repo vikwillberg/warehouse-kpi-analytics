@@ -1,5 +1,12 @@
 # Inbound Capacity Calculation
 
+![Capacity summary — module, pallet & window utilization by unit and rack](screenshots/in-capacity-calculation.png)
+
+<sub>Capacity summary — module, pallet & window utilization by unit and rack</sub>
+
+> _Report preview. Operational volume metrics are shown as generated; the employer, customer/supplier names, order/part identifiers, and employee names have been redacted or replaced with placeholders for this public portfolio._
+
+
 
 ## IN Capacity Calculation
 

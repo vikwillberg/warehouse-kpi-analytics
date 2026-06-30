@@ -1,8 +1,8 @@
 # IP Picking KPI
 
-![Weekly picking KPI by pallet code](screenshots/ip-picking-kpi.png)
+![Power BI dashboard — weekly picking KPI by pallet code](screenshots/ip-picking-kpi.png)
 
-<sub>Weekly picking KPI by pallet code</sub>
+<sub>Power BI dashboard — weekly picking KPI by pallet code</sub>
 
 > _Report preview. Operational volume metrics are shown as generated; the employer, customer/supplier names, order/part identifiers, and employee names have been redacted or replaced with placeholders for this public portfolio._
 

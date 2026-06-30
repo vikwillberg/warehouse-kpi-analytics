@@ -1,5 +1,12 @@
 # FIFO KPI — Weekly Email Insights
 
+![Power BI — FIFO pick compliance by day and operator](screenshots/in-fifo-pick.png)
+
+<sub>Power BI — FIFO pick compliance by day and operator</sub>
+
+> _Report preview. Operational volume metrics are shown as generated; the employer, customer/supplier names, order/part identifiers, and employee names have been redacted or replaced with placeholders for this public portfolio._
+
+
 ## Purpose
 
 This project produces FIFO compliance data for the Site 1 warehouse (Example Logistics). The analyzer (`indiana_fifo_analyzer v2.0.py`) runs weekly and writes CSVs to `./Power BI Data/`. Once a week the user asks Claude Code to generate a leadership-facing **email body** summarizing the latest data. That email body is then pasted into Outlook with the report attached.

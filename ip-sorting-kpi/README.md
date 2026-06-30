@@ -1,8 +1,8 @@
 # IP Sorting KPI
 
-![Weekly IP sorting & replenishment KPI](screenshots/ip-sorting-kpi.png)
+![Power BI dashboard — weekly IP sorting & replenishment KPI](screenshots/ip-sorting-kpi.png)
 
-<sub>Weekly IP sorting & replenishment KPI</sub>
+<sub>Power BI dashboard — weekly IP sorting & replenishment KPI</sub>
 
 > _Report preview. Operational volume metrics are shown as generated; the employer, customer/supplier names, order/part identifiers, and employee names have been redacted or replaced with placeholders for this public portfolio._
 

@@ -1,8 +1,8 @@
 # Multi-Warehouse FIFO Inventory Rundown
 
-![Multi-warehouse FIFO inventory status dashboard](screenshots/fifo-inventory-rundown.png)
+![Power BI — multi-warehouse FIFO inventory status dashboard](screenshots/fifo-inventory-rundown.png)
 
-<sub>Multi-warehouse FIFO inventory status dashboard</sub>
+<sub>Power BI — multi-warehouse FIFO inventory status dashboard</sub>
 
 > _Report preview. Operational volume metrics are shown as generated; the employer, customer/supplier names, order/part identifiers, and employee names have been redacted or replaced with placeholders for this public portfolio._
 

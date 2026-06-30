@@ -1,8 +1,8 @@
 # DS Sorting KPI
 
-![Weekly sorting & putaway KPI chart](screenshots/ds-sorting-kpi.png)
+![Power BI dashboard — weekly sorting & putaway KPI](screenshots/ds-sorting-kpi.png)
 
-<sub>Weekly sorting & putaway KPI chart</sub>
+<sub>Power BI dashboard — weekly sorting & putaway KPI</sub>
 
 > _Report preview. Operational volume metrics are shown as generated; the employer, customer/supplier names, order/part identifiers, and employee names have been redacted or replaced with placeholders for this public portfolio._
 

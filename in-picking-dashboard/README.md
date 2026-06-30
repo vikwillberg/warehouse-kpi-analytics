@@ -1,5 +1,12 @@
 # Picking TV Dashboard + Token-Refresh Failsafe
 
+![Power BI — real-time picking & shipping TV status dashboard](screenshots/in-picking-dashboard.png)
+
+<sub>Power BI — real-time picking & shipping TV status dashboard</sub>
+
+> _Report preview. Operational volume metrics are shown as generated; the employer, customer/supplier names, order/part identifiers, and employee names have been redacted or replaced with placeholders for this public portfolio._
+
+
 
 ## Project Overview
 
